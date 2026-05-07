@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background: url("../image/marble.jpg");background-size: 100%;color: #E4E4E4;}
+.back{width: 100%;min-width: 1200px;margin:0 auto;height: 50px;font-family: "华文中宋";font-size: 25px;}
+.content{width: 100%;height: 670px;text-align: center;padding-top: 50px;}
+.intro{width: 70%;font-size: 20px;line-height: 1.7;letter-spacing: 2px;border:3px solid black;background-color: black;margin: auto;font-family: "微软雅黑";color: #999999;}
+.tracklist{width: 78%;height: 390px;background-color: black;margin: auto;}
+.list{width: 75%;min-width: 1200px;height: 234px;margin-left: 80px;position: relative;top: -65px;}
+.lst{margin-right: 20px;width: 270px;height: 234px;float: left;font-family: "华文中宋";line-height: 1.4;color: #DBDBDB}
+.lst{font-size: 25px;}
+.numbers{font-size: 50px;}
