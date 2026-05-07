@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin: 0;padding: 0;	background:url("../image/marble.jpg") center no-repeat;background-size:cover;}
+.back span{position: relative;top: 15px;left: 25px;}
+
+.back{width: 100%;min-width: 1200px;margin:0 auto;height: 50px;font-family: "华文中宋";font-size: 25px;}
+.login-box {width:400px;background:#222222;padding: 40px;border-radius: 10px;box-shadow:0 0 20px; margin: 100px auto;}
+.login-box h2{margin:0 0 30px;padding: 0;color:#D1D1D1;text-align:center;}
+
+.login-box .user-box{position: relative;margin-bottom: 30px;line-height: 4em;}
+.login-box .user-box input{width:100%;padding: 10px 0;font-size: 16px;color:#D1D1D1;border: none;border-bottom: 1px solid 												#999;outline:none;background: transparent;}
+
+.login-box .user-box label{position: absolute;left: 0;padding:10px 0;font-size: 16px;color:#999;pointer-events:none;transition: 0.5s;}
+
+.login-box .user-box input:focus ~ label,
+.login-box .user-box input:valid ~ label {top:-20px;left:0;color:rgba(217,122,1,1.00);font-size:12px;}
+
+.login-box button{display:block;width:100%;background:#BD0311;color:#fff;border: none;outline: none;padding: 15px;font-size:18px;border-radius:5px;cursor: pointer;transition: 0.5s;}
+
+.remember{margin-bottom: 30px;font-size: 16px;color:#999;}

@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.chengyuanjieshao{width: 1138px;height: 150px; background-color: black; position: relative;margin: auto;}
+.introduction{position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.introEN{font-family: "华文中宋";color: #999999;font-size: 60px;position: relative;right: 240px;}
+.contact{font-family: "华文中宋";color: #999999;font-size: 60px;position: relative;left: 50px;top: -5px;}
+.members{width: 1138px;height: 650px; margin: auto;background-color: #444444;margin-top: 30px;margin-bottom: 50px;}
+.F{width: 535px;height: 420px; text-align: right;float: left;display: flex;margin: 30px 15px 15px 15px;}
+.A{width: 535px;height: 420px;text-align: left;float: left;margin: 30px 15px 15px 15px;}
+.border{width: 6px;height: 450px;border-left:1px dotted #777777;border-right:1px dotted #777777;float: left;display: flex;position: relative;top: 20px;}
+.an{width: 540px;height: 150px;display: flex;}
+.Reku{width: 540px;height: 150px;display: flex;position: relative;top: 100px;}
+.fery{width: 540px;height: 150px;display: flex;position: relative;top: 120px;}
+.mem-1{width: 150px;height: 150px;background: url("../image/mem_01.png");background-size: 100%;}
+.mem-2{width: 150px;height: 150px;background: url("../image/mem_02.png");background-size: 100%;}
+.mem-3{width: 150px;height: 150px;background: url("../image/mem_03.png");background-size: 100%;}
+.jieshao1{width: 370px;height: 165px;font-size: 13px;color: #777777;letter-spacing: 2px;line-height: 1.5;padding-top: 15px;padding-left: 15px;}
+.jieshao2{width: 370px;height: 165px;font-size: 13px;color: #777777;letter-spacing: 2px;line-height: 1.5;padding-top: 15px;padding-left: 15px;}
+.jieshao3{width: 360px;height: 165px;font-size: 13px;color: #777777;letter-spacing: 2px;line-height: 1.5;padding-top: 15px;padding-right: 15px;}
